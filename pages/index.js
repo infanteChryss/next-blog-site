@@ -9,7 +9,7 @@ export default function Home() {
       </Head>
       <section className={styles.hero_banner}>
         <h1 className={styles.banner_title}>
-            Hello, World!
+            Welcome to my site.
         </h1>
       </section>
     </div>
